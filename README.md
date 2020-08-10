@@ -1,1 +1,1 @@
-[![Video Label](https://www.ntoday.co.kr/news/photo/201911/69651_41642_128.png)](https://youtu.be/RX27LQkZ1Ns)
+[![Video Label](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fpk9Ax%2FbtqzFzVUbO6%2FHLwbFAMsjDRdhERvmkvxY0%2Fimg.jpg)](https://youtu.be/RX27LQkZ1Ns)
