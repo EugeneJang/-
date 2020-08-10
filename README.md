@@ -6,9 +6,9 @@
 
 앱 링크 :: https://pf.kakao.com/_TQDIM
 
+<br>
 
-
-GS 홈쇼핑 톡주문 화면
+<b>GS 홈쇼핑 톡주문 화면</b>
 
 [![GSSHOP](http://img.youtube.com/vi/NLiuCSFoAdM/0.jpg)](https://youtu.be/NLiuCSFoAdM)
 
