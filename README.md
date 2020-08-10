@@ -1,4 +1,4 @@
-CJ 오쇼핑 톡주문 화면
+<b>CJ 오쇼핑 톡주문 화면</b>
 
 [![CJMALL](http://img.youtube.com/vi/RX27LQkZ1Ns/0.jpg)](https://youtu.be/RX27LQkZ1Ns)
 
